@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  nome: MyString
+  data_nasc: 2013-08-02
+  altura: 9.99
+
+two:
+  nome: MyString
+  data_nasc: 2013-08-02
+  altura: 9.99
